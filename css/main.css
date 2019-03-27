@@ -460,7 +460,7 @@ aside .sidebar-content .row.photo-profile {
 .content .container-custom::-webkit-scrollbar { width: 0 !important }
 section.background  {
     opacity: 0.2;
-  background: url("../img/blackground2.jpg");
+  background: url("../img/blackground.jpg");
     background-repeat:no-repeat;
     background-attachment:fixed;
     -o-background-size: 100% 100%;
