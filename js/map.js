@@ -4,7 +4,8 @@
       function initMap() {
       
           // MAP LOCATION
-          var myLatLng = {lat: -7.78291666666667, lng: 110.367027777778};
+          // Got Chicago!  
+          var myLatLng = {lat: 41.8755616, lng: -87.6244212};
 
             // STYLE MAP
             var map = new google.maps.Map(document.getElementById('map'), {
